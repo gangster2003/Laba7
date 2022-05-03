@@ -1,4 +1,4 @@
-k = int(input("Введите левую границу: "))
+k = int(input("Введите границу: "))
 m = int(input("Введите правую границу: "))
 sum = 0
 for i in range(k, m + 1):
